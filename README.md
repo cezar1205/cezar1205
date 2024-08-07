@@ -1,6 +1,4 @@
-## Hi there 👋
-
-<!--
+## Boas vindas ao meu perfil 
 **cezar1205/cezar1205** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
